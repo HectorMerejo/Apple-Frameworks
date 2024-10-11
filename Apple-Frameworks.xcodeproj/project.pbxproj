@@ -12,6 +12,8 @@
 		1750FE442CB375FA00B19D0B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1750FE432CB375FA00B19D0B /* Preview Assets.xcassets */; };
 		1750FE4B2CB3762400B19D0B /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1750FE4A2CB3762400B19D0B /* Framework.swift */; };
 		1750FE4D2CB3787D00B19D0B /* FrameworkGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1750FE4C2CB3787D00B19D0B /* FrameworkGridView.swift */; };
+		1750FE6D2CB7536300B19D0B /* FramworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1750FE6C2CB7536300B19D0B /* FramworkDetailView.swift */; };
+		1750FE6F2CB76D4E00B19D0B /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1750FE6E2CB76D4E00B19D0B /* AFButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		1750FE432CB375FA00B19D0B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1750FE4A2CB3762400B19D0B /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
 		1750FE4C2CB3787D00B19D0B /* FrameworkGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridView.swift; sourceTree = "<group>"; };
+		1750FE6C2CB7536300B19D0B /* FramworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramworkDetailView.swift; sourceTree = "<group>"; };
+		1750FE6E2CB76D4E00B19D0B /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 			children = (
 				1750FE3C2CB375F800B19D0B /* Apple_FrameworksApp.swift */,
 				1750FE4C2CB3787D00B19D0B /* FrameworkGridView.swift */,
+				1750FE6C2CB7536300B19D0B /* FramworkDetailView.swift */,
+				1750FE6E2CB76D4E00B19D0B /* AFButton.swift */,
 				1750FE402CB375FA00B19D0B /* Assets.xcassets */,
 				1750FE422CB375FA00B19D0B /* Preview Content */,
 				1750FE4A2CB3762400B19D0B /* Framework.swift */,
@@ -142,6 +148,8 @@
 			files = (
 				1750FE4D2CB3787D00B19D0B /* FrameworkGridView.swift in Sources */,
 				1750FE4B2CB3762400B19D0B /* Framework.swift in Sources */,
+				1750FE6D2CB7536300B19D0B /* FramworkDetailView.swift in Sources */,
+				1750FE6F2CB76D4E00B19D0B /* AFButton.swift in Sources */,
 				1750FE3D2CB375F800B19D0B /* Apple_FrameworksApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
